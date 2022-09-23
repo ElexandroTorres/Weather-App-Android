@@ -9,5 +9,4 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    const val BASE_URL : String = "https://goweather.herokuapp.com/weather/curitiba"
 }
